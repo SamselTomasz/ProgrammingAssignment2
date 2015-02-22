@@ -4,7 +4,7 @@
 makeCacheMatrix <- function(x = matrix()) {
 	
 	## Some initialization needed 
-	InversedMatrix <- NULL
+	i <- NULL
 	
 	## Method setting the matrix
 	set <- function(matrix){
